@@ -1,0 +1,1075 @@
+# Translation of Plugins - Brizy &#8211; Page Builder - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - Brizy &#8211; Page Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-21 03:38:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Brizy &#8211; Page Builder - Stable (latest release)\n"
+
+#: public/editor-build/282-wp/texts.php:1734
+msgid "or"
+msgstr "hoặc"
+
+#: public/editor-build/282-wp/texts.php:1682
+msgid "You can"
+msgstr "Bạn có thể"
+
+#: public/editor-build/282-wp/texts.php:1733
+msgid "open an issue"
+msgstr "báo cáo vấn đề"
+
+#: public/editor-build/282-wp/texts.php:537
+msgid "Enter Search Keyword"
+msgstr "Nhập từ khóa tìm kiếm"
+
+#: public/editor-build/282-wp/texts.php:1259
+msgid "Saved"
+msgstr "Đã lưu"
+
+#: public/editor-build/282-wp/texts.php:1255
+msgid "Save"
+msgstr "Lưu"
+
+#: public/editor-build/282-wp/texts.php:263
+msgid "Block"
+msgstr "Khối"
+
+#: public/editor-build/282-wp/texts.php:610
+msgid "Filter By"
+msgstr "Lọc bởi"
+
+#: public/editor-build/282-wp/texts.php:901
+msgid "Message sent"
+msgstr "Đã gửi thông điệp"
+
+#: public/editor-build/282-wp/texts.php:543
+msgid "Error"
+msgstr "Lỗi"
+
+#: public/editor-build/282-wp/texts.php:859
+msgid "Make it Global"
+msgstr "Đặt làm khối dùng chung"
+
+#: import/main.php:53 public/editor-build/282-wp/texts.php:160
+msgid "All Categories"
+msgstr "Tất cả thể loại"
+
+#: editor/editor/editor.php:911 editor/editor/editor.php:918
+#: public/editor-build/282-wp/texts.php:1161
+msgid "Random"
+msgstr "Ngẫu nhiên"
+
+#: public/editor-build/282-wp/texts.php:770
+msgid "Inherit"
+msgstr "Kế thừa"
+
+#: public/editor-build/282-wp/texts.php:1538
+msgid "Trash"
+msgstr "Thùng rác"
+
+#: public/editor-build/282-wp/texts.php:1064
+msgid "Pending"
+msgstr "Đang chờ duyệt"
+
+#: public/editor-build/282-wp/texts.php:1054
+msgid "Parent"
+msgstr "Cha"
+
+#: public/editor-build/282-wp/texts.php:946
+msgid "Modified"
+msgstr "Đã chỉnh sửa"
+
+#: public/editor-build/282-wp/texts.php:652
+msgid "Future"
+msgstr "Tương lai"
+
+#: public/editor-build/282-wp/texts.php:1415
+msgid "Status"
+msgstr "Trạng thái"
+
+#: public/editor-build/282-wp/texts.php:557
+msgid "Exclude"
+msgstr "Ngoại trừ"
+
+#: public/editor-build/282-wp/texts.php:757
+msgid "Include"
+msgstr "Bao gồm"
+
+#: public/editor-build/282-wp/texts.php:224
+msgid "Auto-Draft"
+msgstr "Bản nháp tự động lưu"
+
+#: public/editor-build/282-wp/texts.php:1116
+msgid "Private"
+msgstr "Riêng tư"
+
+#: public/editor-build/282-wp/texts.php:496
+msgid "Draft"
+msgstr "Bản nháp"
+
+#: public/editor-build/282-wp/texts.php:219
+msgid "Author"
+msgstr "Tác giả"
+
+#: public/editor-build/282-wp/texts.php:335
+msgid "Category"
+msgstr "Chuyên mục"
+
+#: public/editor-build/282-wp/texts.php:1087
+msgid "Post"
+msgstr "Bài viết"
+
+#: public/editor-build/282-wp/texts.php:1081
+msgid "Popularity"
+msgstr "Độ phổ biến"
+
+#: editor/editor/editor.php:2044 editor/editor/editor.php:2137
+#: public/editor-build/282-wp/texts.php:1163
+msgid "Rating"
+msgstr "Đánh giá"
+
+#: editor/editor/editor.php:909 editor/editor/editor.php:916
+#: editor/editor/editor.php:2082 public/editor-build/282-wp/texts.php:1519
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: public/editor-build/282-wp/texts.php:609
+msgid "Filter"
+msgstr "Bộ lọc"
+
+#: public/editor-build/282-wp/texts.php:1027
+msgid "Order Tracking"
+msgstr "Theo dõi đơn hàng"
+
+#: public/editor-build/282-wp/texts.php:964
+msgid "My Account"
+msgstr "Tài khoản"
+
+#: public/editor-build/282-wp/texts.php:346
+msgid "Checkout"
+msgstr "Thanh toán"
+
+#: editor/editor/editor.php:2102 public/editor-build/282-wp/texts.php:325
+msgid "Cart"
+msgstr "Giỏ hàng"
+
+#: public/editor-build/282-wp/texts.php:1044
+msgid "Page"
+msgstr "Trang"
+
+#: public/editor-build/282-wp/texts.php:415
+msgid "Count"
+msgstr "Số lượng"
+
+#: public/editor-build/282-wp/texts.php:461
+msgid "Description"
+msgstr "Mô tả"
+
+#: public/editor-build/282-wp/texts.php:966
+msgid "Name"
+msgstr "Tên"
+
+#: public/editor-build/282-wp/texts.php:1026
+msgid "Order By"
+msgstr "Sắp xếp theo"
+
+#: public/editor-build/282-wp/texts.php:460
+msgid "Desc"
+msgstr "Giảm dần"
+
+#: public/editor-build/282-wp/texts.php:210
+msgid "Asc"
+msgstr "Tăng dần"
+
+#: public/editor-build/282-wp/texts.php:1025
+msgid "Order"
+msgstr "Đơn hàng"
+
+#: public/editor-build/282-wp/texts.php:332
+msgid "Categories Count"
+msgstr "Số lượng chuyên mục"
+
+#: public/editor-build/282-wp/texts.php:375
+msgid "Columns"
+msgstr "Cột"
+
+#: public/editor-build/282-wp/texts.php:816
+msgid "Layout"
+msgstr "Bố cục"
+
+#: public/editor-build/282-wp/texts.php:1141
+msgid "Products Count"
+msgstr "Số lượng sản phẩm"
+
+#: public/editor-build/282-wp/texts.php:1124
+msgid "Product ID or SKU"
+msgstr "ID hoặc SKU sản phẩm"
+
+#: public/editor-build/282-wp/texts.php:1123
+msgid "Product ID"
+msgstr "ID sản phẩm"
+
+#: public/editor-build/282-wp/texts.php:1157
+msgid "Query"
+msgstr "Truy vấn"
+
+#: public/editor-build/282-wp/texts.php:636
+msgid "Footer"
+msgstr "Chân trang"
+
+#: public/editor-build/282-wp/texts.php:1073
+msgid "Play"
+msgstr "Chạy"
+
+#: public/editor-build/282-wp/texts.php:729
+msgid "ID"
+msgstr "ID"
+
+#: public/editor-build/282-wp/texts.php:419
+msgid "Cover"
+msgstr "Bìa"
+
+#: public/editor-build/282-wp/texts.php:396
+msgid "Controls"
+msgstr "Nút điều khiển"
+
+#: public/editor-build/282-wp/texts.php:1165
+msgid "Ratio"
+msgstr "Tỉ lệ"
+
+#: public/editor-build/282-wp/texts.php:1389
+msgid "SoundCloud Link"
+msgstr "Đường dẫn SoundCloud"
+
+#: public/editor-build/282-wp/texts.php:1388
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: public/editor-build/282-wp/texts.php:1066
+msgid "Percentage"
+msgstr "Phần trăm"
+
+#: public/editor-build/282-wp/texts.php:897
+msgid "Menu Order"
+msgstr "Trật tự Menu"
+
+#: public/editor-build/282-wp/texts.php:1094
+msgid "Post Type"
+msgstr "Kiểu nội dung"
+
+#: public/editor-build/282-wp/texts.php:1364
+msgid "Slug"
+msgstr "Chuỗi rút gọn"
+
+#: public/editor-build/282-wp/texts.php:726
+msgid "Hue"
+msgstr "Hue"
+
+#: public/editor-build/282-wp/texts.php:1424
+msgid "Style"
+msgstr "Hình thức"
+
+#: public/editor-build/282-wp/texts.php:1278
+msgid "Select"
+msgstr "Chọn"
+
+#: public/editor-build/282-wp/texts.php:1051
+msgid "Paragraph"
+msgstr "Đoạn văn"
+
+#: public/editor-build/282-wp/texts.php:1004
+msgid "Number"
+msgstr "Số"
+
+#: public/editor-build/282-wp/texts.php:511
+msgid "Email"
+msgstr "Email"
+
+#: public/editor-build/282-wp/texts.php:1198
+msgid "Required"
+msgstr "Bắt buộc"
+
+#: public/editor-build/282-wp/texts.php:669
+msgid "Go to"
+msgstr "Đi đến"
+
+#: public/editor-build/282-wp/texts.php:1171
+msgid "Redirect"
+msgstr "Chuyển hướng"
+
+#: public/editor-build/282-wp/texts.php:1443
+msgid "Success"
+msgstr "Thành công"
+
+#: public/editor-build/282-wp/texts.php:899
+msgid "Message"
+msgstr "Thông điệp"
+
+#: public/editor-build/282-wp/texts.php:805
+msgid "Label"
+msgstr "Nhãn"
+
+#: public/editor-build/282-wp/texts.php:597
+msgid "Field Type"
+msgstr "Kiểu dữ liệu"
+
+#: public/editor-build/282-wp/texts.php:596
+msgid "Field"
+msgstr "Trường dữ liệu"
+
+#: public/editor-build/282-wp/texts.php:533
+msgid "End"
+msgstr "Kết thúc"
+
+#: public/editor-build/282-wp/texts.php:1413
+msgid "Start"
+msgstr "Bắt đầu"
+
+#: public/editor-build/282-wp/texts.php:1239
+msgid "Russian"
+msgstr "Tiếng Nga"
+
+#: public/editor-build/282-wp/texts.php:502
+msgid "Dutch"
+msgstr "Tiếng Hà Lan"
+
+#: public/editor-build/282-wp/texts.php:793
+msgid "Italian"
+msgstr "Tiếng Ý"
+
+#: public/editor-build/282-wp/texts.php:641
+msgid "French"
+msgstr "Tiếng Pháp"
+
+#: public/editor-build/282-wp/texts.php:1394
+msgid "Spanish"
+msgstr "Tiếng Tây Ban Nha"
+
+#: public/editor-build/282-wp/texts.php:536
+msgid "English"
+msgstr "Tiếng Anh"
+
+#: public/editor-build/282-wp/texts.php:661
+msgid "German"
+msgstr "Tiếng Đức"
+
+#: public/editor-build/282-wp/texts.php:809
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: public/editor-build/282-wp/texts.php:13
+msgid "+ 12:00 (Auckland)"
+msgstr "+ 12:00 (Auckland)"
+
+#: public/editor-build/282-wp/texts.php:12
+msgid "+ 11:00 (Ponape)"
+msgstr "+ 11:00 (Ponape)"
+
+#: public/editor-build/282-wp/texts.php:36
+msgid "+ 9:00 (Tokyo, Seoul)"
+msgstr "+ 9:00 (Tokyo, Seoul)"
+
+#: public/editor-build/282-wp/texts.php:33
+msgid "+ 8:00 (Singapore, Beijing)"
+msgstr "+ 8:00 (Singapore, Beijing)"
+
+#: public/editor-build/282-wp/texts.php:31
+msgid "+ 7:00 (Bangkok, Jakarta)"
+msgstr "+ 7:00 (Bangkok, Jakarta)"
+
+#: public/editor-build/282-wp/texts.php:24
+msgid "+ 5:00 (Yekaterinburg)"
+msgstr "+ 5:00 (Yekaterinburg)"
+
+#: public/editor-build/282-wp/texts.php:22
+msgid "+ 4:00 (Dubai, Baku)"
+msgstr "+ 4:00 (Dubai, Baku)"
+
+#: public/editor-build/282-wp/texts.php:20
+msgid "+ 3:00 (Moscow, Baghdad)"
+msgstr "+ 3:00 (Moscow, Baghdad)"
+
+#: public/editor-build/282-wp/texts.php:18
+msgid "+ 2:00 (Athens, Istanbul)"
+msgstr "+ 2:00 (Athens, Istanbul)"
+
+#: public/editor-build/282-wp/texts.php:16
+msgid "+ 1:00 (Berlin, Paris)"
+msgstr "+ 1:00 (Berlin, Paris)"
+
+#: public/editor-build/282-wp/texts.php:63
+msgid "00:00 (London, Dublin)"
+msgstr "00:00 (London, Dublin)"
+
+#: public/editor-build/282-wp/texts.php:42
+msgid "- 1:00 (Cape Verde)"
+msgstr "- 1:00 (Cape Verde)"
+
+#: public/editor-build/282-wp/texts.php:43
+msgid "- 2:00 (Noronha)"
+msgstr "- 2:00 (Noronha)"
+
+#: public/editor-build/282-wp/texts.php:45
+msgid "- 3:00 (Brasilia, Santiago)"
+msgstr "- 3:00 (Brasilia, Santiago)"
+
+#: public/editor-build/282-wp/texts.php:48
+msgid "- 4:00 (Halifax, Manaus)"
+msgstr "- 4:00 (Halifax, Manaus)"
+
+#: public/editor-build/282-wp/texts.php:51
+msgid "- 5:00 (New York, Miami)"
+msgstr "- 5:00 (New York, Miami)"
+
+#: public/editor-build/282-wp/texts.php:52
+msgid "- 6:00 (Chicago, Dallas)"
+msgstr "- 6:00 (Chicago, Dallas)"
+
+#: public/editor-build/282-wp/texts.php:53
+msgid "- 7:00 (Denver, Phoenix)"
+msgstr "- 7:00 (Denver, Phoenix)"
+
+#: public/editor-build/282-wp/texts.php:54
+msgid "- 8:00 (Los Angeles)"
+msgstr "- 8:00 (Los Angeles)"
+
+#: public/editor-build/282-wp/texts.php:55
+msgid "- 9:00 (Anchorage)"
+msgstr "- 9:00 (Anchorage)"
+
+#: public/editor-build/282-wp/texts.php:38
+msgid "- 10:00 (Honolulu, Papeete)"
+msgstr "- 10:00 (Honolulu, Papeete)"
+
+#: public/editor-build/282-wp/texts.php:40
+msgid "- 11:00 (Niue)"
+msgstr "- 11:00 (Niue)"
+
+#: public/editor-build/282-wp/texts.php:1509
+msgid "Time Zone"
+msgstr "Múi giờ"
+
+#: public/editor-build/282-wp/texts.php:931
+msgid "Minutes"
+msgstr "Phút"
+
+#: public/editor-build/282-wp/texts.php:718
+msgid "Hour"
+msgstr "Giờ"
+
+#: admin/form-entries.php:62 editor/editor/editor.php:910
+#: editor/editor/editor.php:917 public/editor-build/282-wp/texts.php:447
+msgid "Date"
+msgstr "Ngày"
+
+#: public/editor-build/282-wp/texts.php:721
+msgid "Hover"
+msgstr "Di chuột qua"
+
+#: public/editor-build/282-wp/texts.php:987
+msgid "Normal"
+msgstr "Bình thường"
+
+#: public/editor-build/282-wp/texts.php:1393
+msgid "Spacing"
+msgstr "Khoảng cách"
+
+#: public/editor-build/282-wp/texts.php:606
+msgid "Fill"
+msgstr "Màu nền"
+
+#: public/editor-build/282-wp/texts.php:402
+msgid "Corner"
+msgstr "Bo góc"
+
+#: public/editor-build/282-wp/texts.php:867
+msgid "Margin"
+msgstr "Margin"
+
+#: public/editor-build/282-wp/texts.php:1043
+msgid "Padding"
+msgstr "Padding"
+
+#: public/editor-build/282-wp/texts.php:1019
+msgid "Open In New Tab"
+msgstr "Mở trong tab mới"
+
+#: public/editor-build/282-wp/texts.php:835
+msgid "Link to"
+msgstr "Liên kết tới"
+
+#: public/editor-build/282-wp/texts.php:832
+msgid "Link"
+msgstr "Đường dẫn"
+
+#: public/editor-build/282-wp/texts.php:506
+msgid "Editable Text"
+msgstr "Văn bản có thể chỉnh sửa"
+
+#: public/editor-build/282-wp/texts.php:687
+msgid "H6"
+msgstr "H6"
+
+#: public/editor-build/282-wp/texts.php:686
+msgid "H5"
+msgstr "H5"
+
+#: public/editor-build/282-wp/texts.php:685
+msgid "H4"
+msgstr "H4"
+
+#: public/editor-build/282-wp/texts.php:684
+msgid "H3"
+msgstr "H3"
+
+#: public/editor-build/282-wp/texts.php:683
+msgid "H2"
+msgstr "H2"
+
+#: public/editor-build/282-wp/texts.php:682
+msgid "H1"
+msgstr "H1"
+
+#: public/editor-build/282-wp/texts.php:1041
+msgid "P"
+msgstr "P"
+
+#: public/editor-build/282-wp/texts.php:689
+msgid "HTML Tag"
+msgstr "Thẻ HTML"
+
+#: public/editor-build/282-wp/texts.php:658
+msgid "Gap Below"
+msgstr "Khoảng cách dưới"
+
+#: public/editor-build/282-wp/texts.php:794
+msgid "Italic"
+msgstr "Nghiêng"
+
+#: public/editor-build/282-wp/texts.php:271
+msgid "Bold"
+msgstr "Đậm"
+
+#: public/editor-build/282-wp/texts.php:837
+msgid "List"
+msgstr "Danh sách"
+
+#: public/editor-build/282-wp/texts.php:1350
+msgid "Size"
+msgstr "Kích thước"
+
+#: public/editor-build/282-wp/texts.php:1086
+msgid "Position"
+msgstr "Vị trí"
+
+#: public/editor-build/282-wp/texts.php:155
+msgid "Align"
+msgstr "Căn chỉnh"
+
+#: public/editor-build/282-wp/texts.php:798
+msgid "JackInTheBox"
+msgstr "JackInTheBox"
+
+#: public/editor-build/282-wp/texts.php:625
+msgid "Flip"
+msgstr "Lật"
+
+#: public/editor-build/282-wp/texts.php:799
+msgid "Jello"
+msgstr "ThạchDẻo"
+
+#: public/editor-build/282-wp/texts.php:1668
+msgid "Wobble"
+msgstr "ĐuĐưa"
+
+#: public/editor-build/282-wp/texts.php:1465
+msgid "Tada"
+msgstr "Tada"
+
+#: public/editor-build/282-wp/texts.php:1447
+msgid "Swing"
+msgstr "LộnVòng"
+
+#: public/editor-build/282-wp/texts.php:1307
+msgid "Shake"
+msgstr "Lắc"
+
+#: public/editor-build/282-wp/texts.php:1151
+msgid "Pulse"
+msgstr "XungNhịp"
+
+#: public/editor-build/282-wp/texts.php:624
+msgid "Flash"
+msgstr "Nhấp nháy"
+
+#: public/editor-build/282-wp/texts.php:277
+msgid "Bounce"
+msgstr "Nảy lên"
+
+#: public/editor-build/282-wp/texts.php:458
+msgid "Delay"
+msgstr "Độ trễ"
+
+#: public/editor-build/282-wp/texts.php:501
+msgid "Duration"
+msgstr "Thời gian"
+
+#: public/editor-build/282-wp/texts.php:192
+msgid "Animation"
+msgstr "Hiệu ứng"
+
+#: public/editor-build/282-wp/texts.php:459
+msgid "Delete"
+msgstr "Xóa"
+
+#: public/editor-build/282-wp/texts.php:499
+msgid "Duplicate"
+msgstr "Nhân đôi"
+
+#: public/editor-build/282-wp/texts.php:1039
+msgid "Overlay"
+msgstr "Lớp phủ"
+
+#: public/editor-build/282-wp/texts.php:373
+msgid "Colors"
+msgstr "Màu sắc"
+
+#: public/editor-build/282-wp/texts.php:1700
+msgid "Zoom"
+msgstr "Độ phóng đại"
+
+#: public/editor-build/282-wp/texts.php:538
+msgid "Enter address"
+msgstr "Nhập địa chỉ"
+
+#: public/editor-build/282-wp/texts.php:147
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: public/editor-build/282-wp/texts.php:851
+msgid "Loop"
+msgstr "Lặp lại"
+
+#: public/editor-build/282-wp/texts.php:1560
+msgid "URL"
+msgstr "URL"
+
+#: public/editor-build/282-wp/texts.php:191
+msgid "Animated"
+msgstr "Chuyển động"
+
+#: public/editor-build/282-wp/texts.php:621
+msgid "Fixed"
+msgstr "Cố định"
+
+#: public/editor-build/282-wp/texts.php:1052
+msgid "Parallax"
+msgstr "Parallax"
+
+#: public/editor-build/282-wp/texts.php:256
+msgid "Bg Size"
+msgstr "Cỡ lớn"
+
+#: public/editor-build/282-wp/texts.php:237
+msgid "Background"
+msgstr "Nền"
+
+#: public/editor-build/282-wp/texts.php:1703
+msgid "component"
+msgstr "thành phần"
+
+#: public/editor-build/282-wp/texts.php:411
+msgid "Could not find"
+msgstr "Không thể tìm thấy"
+
+#: public/editor-build/282-wp/texts.php:934
+msgid "Missing Element"
+msgstr "Phần tử bị thiếu"
+
+#: admin/views/settings/maintenance.php:27
+#: public/editor-build/282-wp/texts.php:434
+msgid "Custom"
+msgstr "Tùy biến"
+
+#: public/editor-build/282-wp/texts.php:221
+msgid "Auto"
+msgstr "Tự động"
+
+#: public/editor-build/282-wp/texts.php:702
+msgid "Height"
+msgstr "Chiều cao"
+
+#: public/editor-build/282-wp/texts.php:648
+msgid "Full Height"
+msgstr "Toàn chiều cao"
+
+#: public/editor-build/282-wp/texts.php:1036
+msgid "Outline"
+msgstr "Hình rỗng"
+
+#: public/editor-build/282-wp/texts.php:1235
+msgid "Round"
+msgstr "Tròn"
+
+#: public/editor-build/282-wp/texts.php:1467
+msgid "Tail"
+msgstr "Tail"
+
+#: public/editor-build/282-wp/texts.php:701
+msgid "Heavy"
+msgstr "Đậm"
+
+#: public/editor-build/282-wp/texts.php:1490
+msgid "Thin"
+msgstr "Mảnh"
+
+#: public/editor-build/282-wp/texts.php:206
+msgid "Arrows"
+msgstr "Mũi tên"
+
+#: public/editor-build/282-wp/texts.php:1408
+msgid "Square"
+msgstr "Hình vuông"
+
+#: public/editor-build/282-wp/texts.php:470
+msgid "Diamond"
+msgstr "Hình kim cương"
+
+#: public/editor-build/282-wp/texts.php:349
+msgid "Circle"
+msgstr "Hình tròn"
+
+#: public/editor-build/282-wp/texts.php:986
+#: public/editor-client/build/texts.php:58
+msgid "None"
+msgstr "Không"
+
+#: public/editor-build/282-wp/texts.php:489
+msgid "Dots"
+msgstr "Dấu chấm"
+
+#: public/editor-build/282-wp/texts.php:971
+msgid "Navigation"
+msgstr "Điều hướng"
+
+#: public/editor-build/282-wp/texts.php:1404
+msgid "Speed"
+msgstr "Tốc độ"
+
+#: public/editor-build/282-wp/texts.php:862
+msgid "Make it a Slider"
+msgstr "Chuyển qua dạng Slider"
+
+#: public/editor-build/282-wp/texts.php:1362
+msgid "Slider"
+msgstr "Slider"
+
+#: public/editor-build/282-wp/texts.php:314
+msgid "CSS Class"
+msgstr "Lớp CSS"
+
+#: public/editor-build/282-wp/texts.php:1699
+msgid "Z-index"
+msgstr "Z-index"
+
+#: public/editor-build/282-wp/texts.php:529
+msgid "Enable on Mobile"
+msgstr "Hiển thị trên di động"
+
+#: public/editor-build/282-wp/texts.php:474
+msgid "Disable on Mobile"
+msgstr "Ẩn trên di động"
+
+#: public/editor-build/282-wp/texts.php:1340
+msgid "Show on Desktop"
+msgstr "Hiển thị trên máy tính"
+
+#: public/editor-build/282-wp/texts.php:149
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#: public/editor-build/282-wp/texts.php:950
+msgid "More Settings"
+msgstr "Cài đặt khác"
+
+#: public/editor-build/282-wp/texts.php:1149
+msgid "Publish"
+msgstr "Đăng"
+
+#: public/editor-build/282-wp/texts.php:1586
+msgid "Update"
+msgstr "Cập nhật"
+
+#: public/editor-build/282-wp/texts.php:949
+msgid "More"
+msgstr "Thêm"
+
+#: public/editor-build/282-wp/texts.php:943
+msgid "Mobile"
+msgstr "Di động"
+
+#: public/editor-build/282-wp/texts.php:465
+msgid "Desktop"
+msgstr "Máy tính"
+
+#: public/editor-build/282-wp/texts.php:945
+msgid "Mobile view"
+msgstr "Khung nhìn cho Di động"
+
+#: public/editor-build/282-wp/texts.php:973
+msgid "New Style #%s"
+msgstr "Kiểu mới #%s"
+
+#: admin/form-entries.php:336 admin/popups/main.php:106 admin/templates.php:204
+#: public/editor-build/282-wp/texts.php:124
+msgid "Add New"
+msgstr "Thêm"
+
+#: public/editor-build/282-wp/texts.php:136
+msgid "Add new option"
+msgstr "Thêm tùy chọn mới"
+
+#: public/editor-build/282-wp/texts.php:1426
+msgid "Styling"
+msgstr "Hình thức"
+
+#: public/editor-build/282-wp/texts.php:497
+msgid "Drag to reorder"
+msgstr "Kéo thả để sắp xếp lại"
+
+#: editor/editor/editor.php:1939 public/editor-build/282-wp/texts.php:1190
+msgid "Reorder Blocks"
+msgstr "Sắp xếp các khối"
+
+#: editor/editor/editor.php:2089 public/editor-build/282-wp/texts.php:1097
+msgid "Posts"
+msgstr "Bài viết"
+
+#: editor/editor/editor.php:2038 public/editor-build/282-wp/texts.php:895
+msgid "Menu"
+msgstr "Menu"
+
+#: editor/editor/editor.php:2092 public/editor-build/282-wp/texts.php:1319
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: editor/editor/editor.php:2099 public/editor-build/282-wp/texts.php:1140
+msgid "Products"
+msgstr "Sản phẩm"
+
+#: admin/templates.php:125 public/editor-build/282-wp/texts.php:1117
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: editor/editor/editor.php:2108 public/editor-build/282-wp/texts.php:1049
+msgid "Pages"
+msgstr "Trang"
+
+#: editor/editor/editor.php:2104 public/editor-build/282-wp/texts.php:331
+msgid "Categories"
+msgstr "Danh mục"
+
+#: editor/editor/editor.php:2124 public/editor-build/282-wp/texts.php:139
+msgid "Add to cart"
+msgstr "Thêm vào giỏ"
+
+#: public/editor-build/282-wp/texts.php:374
+msgid "Column"
+msgstr "Cột"
+
+#: public/editor-build/282-wp/texts.php:1236
+msgid "Row"
+msgstr "Hàng"
+
+#: editor/editor/editor.php:2031 public/editor-build/282-wp/texts.php:1146
+msgid "Progress"
+msgstr "Tiến trình"
+
+#: editor/editor/editor.php:2029 public/editor-build/282-wp/texts.php:1464
+msgid "Tabs"
+msgstr "Thẻ (tab)"
+
+#: editor/editor/editor.php:2021 public/editor-build/282-wp/texts.php:731
+msgid "Icon Box"
+msgstr "Hộp Icon"
+
+#: public/editor-build/282-wp/texts.php:638
+msgid "Form"
+msgstr "Liên hệ"
+
+#: editor/editor/editor.php:2019 public/editor-build/282-wp/texts.php:520
+msgid "Embed"
+msgstr "Nhúng"
+
+#: editor/editor/editor.php:2018 public/editor-build/282-wp/texts.php:864
+msgid "Map"
+msgstr "Bản đồ"
+
+#: editor/editor/editor.php:2016 public/editor-build/282-wp/texts.php:1392
+msgid "Spacer"
+msgstr "Khoảng cách"
+
+#: editor/editor/editor.php:2015 public/editor-build/282-wp/texts.php:1633
+msgid "Video"
+msgstr "Video"
+
+#: editor/editor/editor.php:2013 public/editor-build/282-wp/texts.php:744
+msgid "Image"
+msgstr "Hình ảnh"
+
+#: editor/editor/editor.php:2012 public/editor-build/282-wp/texts.php:730
+msgid "Icon"
+msgstr "Biểu tượng"
+
+#: editor/editor/editor.php:2011 public/editor-build/282-wp/texts.php:296
+msgid "Button"
+msgstr "Nút nhấn"
+
+#: editor/editor/editor.php:2010 public/editor-build/282-wp/texts.php:1474
+msgid "Text"
+msgstr "Văn bản"
+
+#: public/editor-build/282-wp/texts.php:121
+msgid "Add Elements"
+msgstr "Thêm phần tử"
+
+#: public/editor-build/282-wp/texts.php:1107
+msgid "Press the button to add blocks"
+msgstr "Bấm vào nút này để thêm các khối"
+
+#: public/editor-build/282-wp/texts.php:132
+msgid "Add a new block"
+msgstr "Thêm một khối mới"
+
+#: public/editor-build/282-wp/texts.php:1449
+msgid "Switch to desktop to add blocks"
+msgstr "Quay về giao diện máy tính để thêm khối"
+
+#: public/editor-build/282-wp/texts.php:1251
+msgid "SWITCH TO DESKTOP"
+msgstr "QUAY VỀ MÁY TÍNH"
+
+#: public/editor-build/282-wp/texts.php:1105
+msgid "Press the button above to add blocks"
+msgstr "Nhấn nút trên để thêm khối"
+
+#: public/editor-build/282-wp/texts.php:1248
+msgid "START BUILDING YOUR PAGE"
+msgstr "BẮT ĐẦU XÂY DỰNG TRANG CỦA BẠN."
+
+#: public/editor-build/282-wp/texts.php:900
+msgid "Message not sent"
+msgstr "Thông điệp chưa được gửi đi"
+
+#: public/editor-build/282-wp/texts.php:250
+msgid "Bar"
+msgstr "Thanh"
+
+#: public/editor-build/282-wp/texts.php:907
+msgid "Meta Key"
+msgstr "Tên Meta"
+
+#: public/editor-build/282-wp/texts.php:908
+msgid "Meta Value"
+msgstr "Giá trị Meta"
+
+#: public/editor-build/282-wp/texts.php:657
+msgid "Gap Above"
+msgstr "Khoảng cách trên"
+
+#: editor/editor/editor.php:2035 public/editor-build/282-wp/texts.php:107
+msgid "Accordion"
+msgstr "Khối co gọn"
+
+#: editor/editor/editor.php:2024 public/editor-build/282-wp/texts.php:417
+msgid "Counter"
+msgstr "Bộ đếm"
+
+#: editor/editor/editor.php:2026 public/editor-build/282-wp/texts.php:416
+msgid "Countdown"
+msgstr "Đếm ngược"
+
+#: editor/editor/editor.php:2090 public/editor-build/282-wp/texts.php:1346
+msgid "Sidebar"
+msgstr "Cột bên"
+
+#: public/editor-build/282-wp/texts.php:647
+msgid "Full"
+msgstr "Tràn 2 bên"
+
+#: public/editor-build/282-wp/texts.php:1662
+msgid "Width"
+msgstr "Bề rộng"
+
+#: public/editor-build/282-wp/texts.php:272
+msgid "Border"
+msgstr "Đường viền"
+
+#: public/editor-build/282-wp/texts.php:280
+msgid "Boxed"
+msgstr "Đóng khung"
+
+#: public/editor-build/282-wp/texts.php:1651
+msgid "Weight"
+msgstr "Độ đậm nhạt"
+
+#: public/editor-build/282-wp/texts.php:1557
+msgid "Typography"
+msgstr "Kiểu chữ"
+
+#: editor/editor/editor.php:2112 public/editor-build/282-wp/texts.php:388
+msgid "Content"
+msgstr "Vị trí nội dung"
+
+#: editor/editor/editor.php:2017 public/editor-build/282-wp/texts.php:829
+msgid "Line"
+msgstr "Đường phân cách"
+
+#. Author of the plugin
+#: brizy.php
+msgid "Brizy.io"
+msgstr "Brizy.io"
+
+#. Description of the plugin
+#: brizy.php
+msgid "A free drag & drop front-end page builder to help you create WordPress pages lightning fast. It's easy with Brizy."
+msgstr "Một trình xây dựng trang dạng kéo-thả miễn phí giúp bạn tạo các trang cho website WordPress một cách nhanh chóng. Thật dễ dàng với Brizy. "
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: brizy.php
+msgid "https://brizy.io/"
+msgstr "https://brizy.io/"
+
+#. Plugin Name of the plugin
+#: brizy.php
+msgid "Brizy"
+msgstr "Brizy"
+
+#: public/editor-build/282-wp/texts.php:1108
+msgid "Preview"
+msgstr "Xem trước"
+
+#: admin/membership/membership.php:64 editor/post.php:655
+#: public/editor-build/282-wp/texts.php:451
+msgid "Default"
+msgstr "Mặc định"
+
+#: admin/views/settings/general.php:62 admin/views/settings/maintenance.php:76
+#: admin/views/settings/roles.php:26
+msgid "Save Changes"
+msgstr "Lưu thay đổi"
+
+#: admin/main.php:491
+msgid "Auto Draft"
+msgstr "Tự động lưu nháp"
+
+#: admin/main.php:244 admin/settings.php:109 admin/settings.php:110
+#: public/editor-build/282-wp/texts.php:1305
+msgid "Settings"
+msgstr "Cài đặt"

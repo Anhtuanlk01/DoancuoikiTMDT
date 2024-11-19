@@ -1,0 +1,50 @@
+2024-10-25T11:32:55+00:00 DEBUG POST: https://ads.tiktok.com/marketing_api/api/developer/app/create_auto_approve/
+
+{"business_platform":"PROD","smb_id":"tt4b_woocommerce_671b81e796324httpsvgfoodwebsitewp-admin","smb_name":"PROD","redirect_url":"https:\/\/vgfood.website\/wp-admin\/"}
+ ajax: no
+2024-10-25T11:32:56+00:00 DEBUG Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+HTTP/1.1 502 Bad Gateway
+Content-Type: text/plain; charset=utf-8
+Content-Length: 119
+X-Tt-Logid: 20241025113255FE71774E3A855031E40E
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+x-tt-trace-host: 01e079957c108d0351cc4a16f5924732d14d7953bcb4d6c086a22a4008d61437d0fb89e54c6e1f489107704c862e0f00376709f41300869f438f59ce6dad14b19e6550f022fd872070114fd98206ceaa2e431d24691d2f6b0ed683cfe4b58936fc218dcf9d1c61c757d2826b32ffac26a3
+x-tt-trace-id: 00-241025113255FE71774E3A855031E40E-57BFBC563F6A9F2D-00
+Server: TLB
+X-Origin-Response-Time: 28,23.75.21.28
+X-Akamai-Request-ID: 6e5aac7a.3af04ea6
+Date: Fri, 25 Oct 2024 11:32:56 GMT
+X-Cache: TCP_MISS from a23-211-15-148.deploy.akamaitechnologies.com (AkamaiGHost/11.6.5-0c617a4be13e71cac2c90d10d87ecf54) (-)
+Connection: close
+X-Cache-Remote: TCP_MISS from a23-75-21-28.deploy.akamaitechnologies.com (AkamaiGHost/11.6.5-0c617a4be13e71cac2c90d10d87ecf54) (-)
+x-tt-trace-tag: id=16;cdn-cache=miss;type=dyn
+Server-Timing: cdn-cache; desc=MISS, edge; dur=148, origin; dur=27
+Server-Timing: inner; dur=4
+X-Parent-Response-Time: 171,23.211.15.148
+
+Bad Gateway | KRAKEND.BACKEND/3 - request failed/320202:connection is closed by peer while being in the connection pool
+2024-10-25T11:32:56+00:00 DEBUG Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+HTTP/1.1 200 OK
+Content-Type: application/json
+X-Tt-Logid: 2024102511325511AB7E3658AB2031F20B,2024102511325511AB7E3658AB2031F20B
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+x-tt-trace-host: 01e079957c108d0351cc4a16f5924732d14d7953bcb4d6c086a22a4008d61437d0fb89e54c6e1f489107704c862e0f00376709f41300869f438f59ce6dad14b19e6550f022fd872070114fd98206ceaa2e26a93f3c811dbe548f3b0a8c218550c0477424b6947bd43d0b0b4460d237fc69
+x-tt-trace-id: 00-24102511325511AB7E3658AB2031F20B-53C7443412CF3B71-00
+Server: TLB
+Content-Encoding: gzip
+Content-Length: 205
+X-Origin-Response-Time: 137,23.75.21.28
+X-Akamai-Request-ID: 6e5acd14.3af05051
+Date: Fri, 25 Oct 2024 11:32:56 GMT
+X-Cache: TCP_MISS from a23-211-15-148.deploy.akamaitechnologies.com (AkamaiGHost/11.6.5-0c617a4be13e71cac2c90d10d87ecf54) (-)
+Connection: close
+Vary: Accept-Encoding
+X-Cache-Remote: TCP_MISS from a23-75-21-28.deploy.akamaitechnologies.com (AkamaiGHost/11.6.5-0c617a4be13e71cac2c90d10d87ecf54) (-)
+x-tt-trace-tag: id=16;cdn-cache=miss;type=dyn
+Server-Timing: cdn-cache; desc=MISS, edge; dur=188, origin; dur=137
+Server-Timing: inner; dur=65
+X-Parent-Response-Time: 322,23.211.15.148
+
+{"code":0,"msg":"ok","data":{"app_secret":"9a473ccf0beeff637a5f816f31dc87bad9cc6eb0","redirect_uri":"https:\/\/vgfood.website\/wp-admin\/","app_id":"7429674846490984455","external_data_key":"c114ed56-8057-4cb8-99f6-af738d6f775a"}}

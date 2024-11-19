@@ -1,0 +1,1345 @@
+# Copyright (C) 2024 Omega Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Fruits Farming 1.0.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/fruits-farming\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-26T13:15:36+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: fruits-farming\n"
+
+#. Theme Name of the theme
+#: style.css
+#: inc/custom-functions.php:340
+msgid "Fruits Farming"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.omegathemes.com/products/free-farming-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Fruits Farming is a specialized WordPress theme crafted for fruit growers, fruit cultivation, orchard management, fruit harvesting, crop rotation, fruit tree care, organic fruit farming, fruit production, agricultural techniques, orchard maintenance, fruit crop specialists, sustainable fruit farming, fruit planting, farm-to-table produce, fruit farm equipment, horticultural practices orchard managers, and fruit farming enthusiasts. It serves as a comprehensive platform for showcasing fruit farming techniques, managing fruit orchards, and promoting sustainable and organic fruit cultivation practices. Ideal for fruit farmers and agricultural businesses, this theme supports the dissemination of valuable resources such as farming guides, tutorials, and advice on fruit crop production and management. It caters to fruit tree nurseries, providing insights into fruit tree planting, harvesting, and the use of farming equipment and tools. Visually, the theme emphasizes organic and sustainable farming practices, with customizable galleries to showcase fruit varieties and farm operations. It offers a user-friendly interface that enhances accessibility to farming tips, innovations, and technological advancements in fruit farming. The theme facilitates community engagement through features like workshops, seminars, conferences, and webinars dedicated to fruit farming. It promotes educational content, including courses and certifications, to empower growers with knowledge and skills essential for successful fruit farming ventures. With responsive design and SEO-friendly structure, the Fruits Farming WordPress Theme ensures that fruit farmers can reach a broader audience, share insights, and attract visitors interested in fruit farming practices. It’s the perfect digital companion for anyone involved in the fruit farming industry, providing tools to foster growth, innovation, and sustainable agricultural practices."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Omega Themes"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.omegathemes.com/"
+msgstr ""
+
+#: 404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid "Maybe its out there, somewhere..."
+msgstr ""
+
+#: 404.php:24
+msgid "You can always find insightful stories on our"
+msgstr ""
+
+#: 404.php:24
+msgid "Homepage"
+msgstr ""
+
+#: 404.php:31
+msgid "Still feeling lost? Youre not alone."
+msgstr ""
+
+#: 404.php:32
+msgid "Enjoy these stories about getting lost, losing things, and finding what you never knew you were looking for."
+msgstr ""
+
+#. translators: %d: ID of a post.
+#: classes/class-walker-menu.php:76
+msgid "#%d (no title)"
+msgstr ""
+
+#: classes/class-walker-menu.php:120
+#: inc/custom-functions.php:45
+msgid "Show sub menu"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:22
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:28
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#. Template Name of the theme
+msgid "Front Page Template"
+msgstr ""
+
+#: functions.php:165
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:209
+msgid "https://layout.omegathemes.com/steps/pro-fruits-farming/"
+msgstr ""
+
+#: functions.php:212
+msgid "https://www.omegathemes.com/products/fruits-wordpress-theme"
+msgstr ""
+
+#: functions.php:215
+msgid "https://wordpress.org/support/theme/fruits-farming/"
+msgstr ""
+
+#: functions.php:218
+msgid "https://wordpress.org/support/theme/fruits-farming/reviews/#new-post"
+msgstr ""
+
+#: functions.php:221
+msgid "https://layout.omegathemes.com/fruits-farming/"
+msgstr ""
+
+#: functions.php:224
+msgid "https://layout.omegathemes.com/steps/free-fruits-farming/"
+msgstr ""
+
+#: header.php:36
+msgid "Skip to the content"
+msgstr ""
+
+#: inc/custom-functions.php:162
+msgid "-- Select Category --"
+msgstr ""
+
+#: inc/custom-functions.php:199
+msgid "Previous post:"
+msgstr ""
+
+#: inc/custom-functions.php:200
+msgid "Next post:"
+msgstr ""
+
+#: inc/custom-functions.php:242
+#: template-parts/header/header-layout.php:44
+msgid "Horizontal"
+msgstr ""
+
+#: inc/custom-functions.php:340
+msgid "Theme: "
+msgstr ""
+
+#: inc/custom-functions.php:340
+msgid " By "
+msgstr ""
+
+#: inc/custom-functions.php:340
+msgid "OMEGA "
+msgstr ""
+
+#: inc/custom-functions.php:341
+msgid "Powered by "
+msgstr ""
+
+#: inc/custom-functions.php:341
+msgid "WordPress"
+msgstr ""
+
+#: inc/custom-functions.php:341
+msgid "WordPress."
+msgstr ""
+
+#: inc/custom-functions.php:351
+msgid "To the Top"
+msgstr ""
+
+#: inc/custom-functions.php:560
+msgid "Video"
+msgstr ""
+
+#: inc/custom-functions.php:563
+msgid "Audio"
+msgstr ""
+
+#: inc/custom-functions.php:566
+msgid "Gallery"
+msgstr ""
+
+#: inc/custom-functions.php:569
+msgid "Quote"
+msgstr ""
+
+#: inc/custom-functions.php:572
+#: inc/metabox.php:63
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/additional-woocommerce.php:13
+msgid "Additional Woocommerce Options"
+msgstr ""
+
+#: inc/customizer/additional-woocommerce.php:29
+msgid "Product Per Column"
+msgstr ""
+
+#: inc/customizer/additional-woocommerce.php:49
+msgid "Product Per Page"
+msgstr ""
+
+#: inc/customizer/additional-woocommerce.php:69
+msgid "Enable Related Products"
+msgstr ""
+
+#: inc/customizer/colors.php:21
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/colors.php:39
+msgid "Border Color"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:10
+msgid "Customizer Custom Settings"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:26
+msgid "Pagination Alignment"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:30
+#: inc/customizer/custom-addon.php:50
+#: inc/customizer/custom-addon.php:91
+#: inc/customizer/footer.php:68
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:31
+#: inc/customizer/custom-addon.php:51
+#: inc/customizer/custom-addon.php:92
+#: inc/customizer/footer.php:69
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:32
+#: inc/customizer/custom-addon.php:52
+#: inc/customizer/custom-addon.php:90
+#: inc/customizer/footer.php:67
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:46
+msgid "Breadcrumb Alignment"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:66
+msgid "Breadcrumb Font Size"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:86
+msgid "Single Page Content Alignment"
+msgstr ""
+
+#: inc/customizer/customizer.php:31
+msgid "Color Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:52
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:60
+msgid "Color Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:69
+msgid "Footer Setting"
+msgstr ""
+
+#: inc/customizer/customizer.php:78
+msgid "Frontpage Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:87
+msgid "Theme Addons"
+msgstr ""
+
+#: inc/customizer/customizer.php:96
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:110
+msgid "Logo width"
+msgstr ""
+
+#: inc/customizer/customizer.php:111
+msgid "Specify the range for logo size with a minimum of 200px and a maximum of 700px, in increments of 20px."
+msgstr ""
+
+#: inc/customizer/customizer.php:131
+msgid "Fruits Farming Pro"
+msgstr ""
+
+#: inc/customizer/customizer.php:132
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/customizer/default.php:14
+msgid "Appointment"
+msgstr ""
+
+#: inc/customizer/default.php:31
+msgid "1234567890"
+msgstr ""
+
+#: inc/customizer/default.php:32
+msgid "freshfarm&fruits@example.com"
+msgstr ""
+
+#: inc/customizer/default.php:33
+msgid "512,Beand Square, California"
+msgstr ""
+
+#: inc/customizer/default.php:37
+msgid "Welcome to Fruits Store"
+msgstr ""
+
+#: inc/customizer/default.php:38
+msgid "Shop Fresh, Eat Well One Stop Online Fruits Destination"
+msgstr ""
+
+#: inc/customizer/default.php:39
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+msgstr ""
+
+#: inc/customizer/default.php:41
+#: inc/customizer/default.php:81
+#: template-parts/content.php:80
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/default.php:51
+msgid "All rights reserved."
+msgstr ""
+
+#: inc/customizer/default.php:75
+msgid "About Us"
+msgstr ""
+
+#: inc/customizer/default.php:76
+msgid "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+msgstr ""
+
+#: inc/customizer/default.php:77
+msgid "You through a personalized language journey, fostering a supportive learning environment."
+msgstr ""
+
+#: inc/customizer/default.php:78
+msgid "ABOUT US"
+msgstr ""
+
+#: inc/customizer/default.php:79
+msgid "Our Mission"
+msgstr ""
+
+#: inc/customizer/default.php:80
+msgid "We prioritize your satisfaction and strive to make your shopping experience enjoyable."
+msgstr ""
+
+#: inc/customizer/default.php:85
+msgid "To The Top"
+msgstr ""
+
+#: inc/customizer/footer.php:12
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/footer.php:28
+msgid "Enable Footer"
+msgstr ""
+
+#: inc/customizer/footer.php:43
+msgid "Footer Column Layout"
+msgstr ""
+
+#: inc/customizer/footer.php:47
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer/footer.php:48
+msgid "Two Column"
+msgstr ""
+
+#: inc/customizer/footer.php:49
+msgid "Three Column"
+msgstr ""
+
+#: inc/customizer/footer.php:63
+msgid "Footer Widget Title Alignment"
+msgstr ""
+
+#: inc/customizer/footer.php:83
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer/footer.php:98
+msgid "Copyright Font Size"
+msgstr ""
+
+#: inc/customizer/footer.php:114
+msgid "Footer Widget Background Color"
+msgstr ""
+
+#: inc/customizer/footer.php:115
+msgid "It will change the complete footer widget background color."
+msgstr ""
+
+#: inc/customizer/footer.php:125
+msgid "Footer Widget Background Image"
+msgstr ""
+
+#: inc/customizer/footer.php:138
+msgid "Enable To The Top"
+msgstr ""
+
+#: inc/customizer/footer.php:153
+msgid "To The Top Text"
+msgstr ""
+
+#: inc/customizer/global-color-setting.php:13
+msgid "Global Color Settings"
+msgstr ""
+
+#: inc/customizer/global-color-setting.php:32
+msgid "Global Color"
+msgstr ""
+
+#: inc/customizer/header-button.php:13
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/header-button.php:29
+msgid "Enable Search"
+msgstr ""
+
+#: inc/customizer/header-button.php:44
+msgid "Phone Number Text"
+msgstr ""
+
+#: inc/customizer/header-button.php:59
+msgid "Email Address Text"
+msgstr ""
+
+#: inc/customizer/header-button.php:74
+msgid "Location Text"
+msgstr ""
+
+#: inc/customizer/header-button.php:89
+msgid "Header Button Text"
+msgstr ""
+
+#: inc/customizer/header-button.php:104
+msgid "Header Button Url"
+msgstr ""
+
+#: inc/customizer/header-button.php:119
+msgid "Menu Font Size"
+msgstr ""
+
+#: inc/customizer/header-button.php:139
+msgid "Menu Text Transform"
+msgstr ""
+
+#: inc/customizer/header-button.php:143
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer/header-button.php:144
+msgid "Uppercase"
+msgstr ""
+
+#: inc/customizer/header-button.php:145
+msgid "Lowercase"
+msgstr ""
+
+#: inc/customizer/header-button.php:159
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:13
+msgid "Banner Settings"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:29
+msgid "Enable / Disable Tagline"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:44
+msgid "Enable Banner"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:59
+msgid "Banner Sub Title"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:74
+msgid "Banner Title"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:89
+msgid "Banner Content"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:104
+#: inc/customizer/homepage-content.php:119
+msgid "Banner Button Url"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:134
+msgid "Banner Right Image 1"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:145
+msgid "About Us Settings"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:161
+msgid "Enable About Us"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:176
+msgid "About Us Left Image "
+msgstr ""
+
+#: inc/customizer/homepage-content.php:192
+msgid "Left Image Heading"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:207
+msgid "About Us Short Title"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:222
+msgid "About Us Content 1"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:237
+msgid "About Us Content 2"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:252
+msgid "About Us Mission Heading"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:267
+msgid "About Us Mission Content"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:282
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:297
+msgid "Button Url"
+msgstr ""
+
+#: inc/customizer/layout-setting.php:13
+msgid "Global Layout Settings"
+msgstr ""
+
+#: inc/customizer/layout-setting.php:29
+msgid "Global Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/layout-setting.php:33
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/layout-setting.php:34
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/layout-setting.php:35
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/post.php:13
+msgid "Single Meta Information Settings"
+msgstr ""
+
+#: inc/customizer/post.php:29
+msgid "Enable Posts Author"
+msgstr ""
+
+#: inc/customizer/post.php:44
+msgid "Enable Posts Date"
+msgstr ""
+
+#: inc/customizer/post.php:59
+#: inc/customizer/post.php:129
+msgid "Enable Posts Category"
+msgstr ""
+
+#: inc/customizer/post.php:74
+msgid "Enable Posts Tags"
+msgstr ""
+
+#: inc/customizer/post.php:83
+msgid "Archive Meta Information Settings"
+msgstr ""
+
+#: inc/customizer/post.php:99
+msgid "Enable sticky Post"
+msgstr ""
+
+#: inc/customizer/post.php:114
+msgid "Enable Posts Image"
+msgstr ""
+
+#: inc/customizer/post.php:144
+msgid "Enable Posts Title"
+msgstr ""
+
+#: inc/customizer/post.php:159
+msgid "Enable Posts Content"
+msgstr ""
+
+#: inc/customizer/post.php:174
+msgid "Enable Posts Button"
+msgstr ""
+
+#: inc/customizer/post.php:189
+msgid "Blog Post Excerpt limit"
+msgstr ""
+
+#: inc/customizer/typography.php:13
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/customizer/typography.php:41
+msgid "General Content font"
+msgstr ""
+
+#: inc/customizer/typography.php:55
+msgid "General heading font"
+msgstr ""
+
+#: inc/get-started/get-started.php:10
+#: inc/get-started/get-started.php:36
+msgid "Omega Options"
+msgstr ""
+
+#: inc/get-started/get-started.php:34
+msgid "Thank You for installing Fruits Farming Theme!"
+msgstr ""
+
+#: inc/get-started/get-started.php:39
+msgid "Documentation"
+msgstr ""
+
+#: inc/get-started/get-started.php:42
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/get-started/get-started.php:45
+msgid "Premium Demo"
+msgstr ""
+
+#: inc/get-started/get-started.php:47
+msgid "Dismiss"
+msgstr ""
+
+#: inc/get-started/get-started.php:102
+msgid "Edit With Customizer - Click Here"
+msgstr ""
+
+#: inc/get-started/get-started.php:110
+msgid "If you are facing any issue with our theme, submit a support ticket here."
+msgstr ""
+
+#: inc/get-started/get-started.php:113
+msgid "Lite Theme Support."
+msgstr ""
+
+#: inc/get-started/get-started.php:119
+msgid "Please write a review if you appreciate the theme."
+msgstr ""
+
+#: inc/get-started/get-started.php:122
+msgid "Rank this topic."
+msgstr ""
+
+#: inc/get-started/get-started.php:128
+msgid "Follow our lite theme documentation to set up our lite theme as seen in the screenshot."
+msgstr ""
+
+#: inc/get-started/get-started.php:131
+msgid "Lite Documentation."
+msgstr ""
+
+#: inc/get-started/get-started.php:139
+msgid "Premium Features Include:"
+msgstr ""
+
+#: inc/get-started/get-started.php:144
+msgid "One Click Demo Content Importer"
+msgstr ""
+
+#: inc/get-started/get-started.php:147
+msgid "Woocommerce Plugin Compatibility"
+msgstr ""
+
+#: inc/get-started/get-started.php:150
+msgid "Multiple Section for the templates"
+msgstr ""
+
+#: inc/get-started/get-started.php:153
+msgid "For a better user experience, make the top of your menu sticky."
+msgstr ""
+
+#: inc/get-started/get-started.php:158
+msgid "Upgrade Pro $40"
+msgstr ""
+
+#: inc/get-started/get-started.php:164
+msgid "Kindly view the premium themes live demo."
+msgstr ""
+
+#: inc/get-started/get-started.php:167
+msgid "Live Demo."
+msgstr ""
+
+#: inc/get-started/get-started.php:171
+msgid "Follow our pro theme documentation to set up our premium theme as seen in the screenshot."
+msgstr ""
+
+#: inc/get-started/get-started.php:174
+msgid "Pro Documentation."
+msgstr ""
+
+#: inc/metabox.php:12
+msgid "Global sidebar"
+msgstr ""
+
+#: inc/metabox.php:17
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/metabox.php:22
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/metabox.php:27
+msgid "No sidebar"
+msgstr ""
+
+#: inc/metabox.php:36
+msgid "Category Image"
+msgstr ""
+
+#: inc/metabox.php:37
+#: inc/metabox.php:71
+#: inc/metabox.php:78
+msgid "Upload Image"
+msgstr ""
+
+#: inc/metabox.php:38
+#: inc/metabox.php:72
+#: inc/metabox.php:79
+msgid "Remove Image"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:276
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:298
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/TGM/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/TGM/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/TGM/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/TGM/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/TGM/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/TGM/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:386
+#: inc/TGM/class-tgm-plugin-activation.php:827
+#: inc/TGM/class-tgm-plugin-activation.php:2533
+#: inc/TGM/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:387
+#: inc/TGM/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:388
+#: inc/TGM/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/TGM/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:934
+#: inc/TGM/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:1121
+#: inc/TGM/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/TGM/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/TGM/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/TGM/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/TGM/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/TGM/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/TGM/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/TGM/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/TGM/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/TGM/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/TGM/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/TGM/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:3509
+#: inc/TGM/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:3509
+#: inc/TGM/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/TGM/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/TGM/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/TGM/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/TGM/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/TGM/tgm.php:10
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: inc/TGM/tgm.php:17
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/widgets/widgets.php:12
+msgid "Main Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:14
+#: inc/widgets/widgets.php:34
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/widgets.php:27
+msgid "One"
+msgstr ""
+
+#: inc/widgets/widgets.php:28
+msgid "Two"
+msgstr ""
+
+#: inc/widgets/widgets.php:29
+msgid "Three"
+msgstr ""
+
+#: inc/widgets/widgets.php:32
+msgid "Footer Widget "
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:308
+msgid "Browse:"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:309
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:310
+msgid "Home"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:311
+msgid "404 Not Found"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:312
+msgid "Archives"
+msgstr ""
+
+#. Translators: %s is the search query.
+#: lib/breadcrumbs/breadcrumbs.php:314
+msgid "Search results for: %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: lib/breadcrumbs/breadcrumbs.php:316
+msgid "Page %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: lib/breadcrumbs/breadcrumbs.php:318
+msgid "Comment Page %s"
+msgstr ""
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: lib/breadcrumbs/breadcrumbs.php:320
+msgid "Minute %s"
+msgstr ""
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: lib/breadcrumbs/breadcrumbs.php:322
+msgid "Week %s"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:782
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:799
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:816
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:832
+#: lib/breadcrumbs/breadcrumbs.php:861
+#: lib/breadcrumbs/breadcrumbs.php:888
+#: lib/breadcrumbs/breadcrumbs.php:915
+#: lib/breadcrumbs/breadcrumbs.php:1255
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:833
+#: lib/breadcrumbs/breadcrumbs.php:889
+#: lib/breadcrumbs/breadcrumbs.php:1259
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:834
+#: lib/breadcrumbs/breadcrumbs.php:1263
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:862
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search..."
+msgstr ""
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: %1$s: Link to create a new post.
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:33
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:40
+msgid "It seems we can’t find what you’re looking for. Perhaps searching can help."
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:75
+msgid "Read More %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-single.php:80
+#: template-parts/content.php:73
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/header/header-layout.php:100
+msgid "shopping cart"
+msgstr ""
+
+#: template-parts/header/header-layout.php:119
+msgid "All Category"
+msgstr ""
